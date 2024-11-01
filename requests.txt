@@ -1,3 +1,4 @@
 streamlit
 autokeras
 pandas
+scikit-learn
